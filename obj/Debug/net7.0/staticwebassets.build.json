@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "WnHKjsGZDLX+eS/hvaWAE3uZKnst3rlBxQJ1VcVzths=",
+  "Source": "MyCourse",
+  "BasePath": "_content/MyCourse",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyCourse\\wwwroot",
+      "Source": "MyCourse",
+      "ContentRoot": "C:\\Users\\aziaee\\MyCourse\\wwwroot\\",
+      "BasePath": "_content/MyCourse",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\aziaee\\MyCourse\\wwwroot\\logo.svg",
+      "SourceId": "MyCourse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aziaee\\MyCourse\\wwwroot\\",
+      "BasePath": "_content/MyCourse",
+      "RelativePath": "logo.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.svg"
+    }
+  ]
+}
